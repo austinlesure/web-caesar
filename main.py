@@ -10,6 +10,10 @@ page_header = '''
         <head>
             <title>Web Caesar</title>
             <style>
+            h1 {
+                text-align: center;
+                font-family: monospace;
+            }
             form {
                 background-color: #eee;
                 padding: 20px;
